@@ -4,6 +4,8 @@
 
 This project implements an **AI-powered Outfit Recommendation System** that generates **complete outfit combinations** using a **single base product** as input.
 
+Video link: https://drive.google.com/file/d/1YakyUz0cVfQdvbAxvczx_T9fZS6NCiet/view?usp=sharing
+
 Given a product (e.g., a watch, top, or footwear), the system simulates how a **human fashion stylist** would assemble outfits by reasoning over:
 
 - Color harmony  
